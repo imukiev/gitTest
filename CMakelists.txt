@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(exemple2)
+
+# set(SOURCE_EXE main.cpp)		
+
+# set(SOURCE_LIB read.cpp print.cpp)			
+
+add_library(inoutlib STATIC read.cpp print.cpp)	
+
+add_executable(main main.cpp)	
+
+target_link_libraries(main inoutlib)	
+
+set_target_properties( 
+    main PROPERTIES
+    CXX_STANDARD 11
+    CXX_STANDARD_REQUIRED ON
+)

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libinoutlib.a CMakeFiles/inoutlib.dir/read.cpp.o CMakeFiles/inoutlib.dir/print.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libinoutlib.a

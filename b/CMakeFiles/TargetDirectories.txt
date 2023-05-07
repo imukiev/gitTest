@@ -1,0 +1,4 @@
+/Users/user/exemple1/exemple2/b/CMakeFiles/inoutlib.dir
+/Users/user/exemple1/exemple2/b/CMakeFiles/main.dir
+/Users/user/exemple1/exemple2/b/CMakeFiles/edit_cache.dir
+/Users/user/exemple1/exemple2/b/CMakeFiles/rebuild_cache.dir
